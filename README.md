@@ -3,21 +3,20 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=SQL%20Learning%20Journey&fontColor=FFFFFF&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 
-
-# <span style="color:#00758F;">🐬 SQL Learning Journey</span>
-### *Mastering Structured Query Language, One Query at a Time.* <p>
+# <span style="color:#00758F;">🐬Mastering Structured Query Language, One Query at a Time.
+ <p>
  <img src="https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Language-SQL-F29111?style=for-the-badge"/>
  <img src="https://img.shields.io/badge/Progress-Learning-00758F?style=for-the-badge"/> 
  <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/SQL-Learning-Journey?style=for-the-badge"/> </p> <p>
   <img src="https://img.shields.io/badge/Open%20Source-❤-F29111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Contributions-Welcome-00758F?style=flat-square"/> <img src="https://img.shields.io/badge/Made%20with-MySQL-F29111?style=flat-square&logo=mysql"/> </p> ---
-
+  <img src="https://img.shields.io/badge/Contributions-Welcome-00758F?style=flat-square"/> <img src="https://img.shields.io/badge/Made%20with-MySQL-F29111?style=flat-square&logo=mysql"/>
+ </p>
   
-### 🐬 *"Learning SQL isn't about memorizing queries—it's about learning how to think with data."* </div> make this more advanced and animated in blue colour theme and font colous 
+  ---
+  
+### 🐬 *"Learning SQL isn't about memorizing queries—it's about learning how to think with data."* </div>  
  
-
-
 ---
 
 ## 📖 About
@@ -51,29 +50,9 @@ This repository documents my journey of learning **SQL** through notes, hands-on
 - ⏳ Triggers
 - ⏳ Indexes
 
----
-
-## 📂 Repository Structure
-
-```text
-📦 SQL-Learning-Journey
- ┣ 📂 Basics
- ┣ 📂 Queries
- ┣ 📂 Joins
- ┣ 📂 Functions
- ┣ 📂 Projects
- ┗ 📜 README.md
-```
 
 ---
 
-## 📈 Progress
-
-```text
-████████░░░░░░░░░░ 40%
-```
-
----
 
 ## 🎯 Goal
 
@@ -83,7 +62,7 @@ This repository documents my journey of learning **SQL** through notes, hands-on
 
 <div align="center">
 
-### ⭐ If you find this repository useful, consider giving it a star!
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
