@@ -1,4 +1,4 @@
-````markdown
+ 
 <div align="center">
 
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="140">
@@ -197,4 +197,4 @@ If you find this repository helpful, consider giving it a ⭐.
 ### ⭐ Happy Coding! ⭐
 
 </div>
-````
+ 
