@@ -19,17 +19,57 @@
  
 ---
 
-## 📖 About
+# 📘 SQL Learning Journey
 
-This repository documents my journey of learning **SQL** through notes, hands-on practice, interview questions, and mini projects.
+> A comprehensive repository documenting my deep dive into SQL—featuring structured notes, hands-on database practice, interview-ready solutions, and real-world mini-projects.
+
+---
+
+## 🚀 Repository Highlights
+
+*   **📘 Core Fundamentals** — Comprehensive notes covering everything from basic queries to advanced database optimization.
+*   **💻 Hands-on Practice** — Practical scripts, schema designs, and multi-table joins executed across various RDBMS platforms.
+*   **🎯 Interview Prep** — A curated collection of solved SQL challenges from platforms like LeetCode, HackerRank, and StrataScratch.
+*   **📊 Mini Projects** — Real-world data analysis pipelines and relational database designs built from scratch.
+
+---
+
+## 🗺️ Roadmap & Progress
+
+| Section | Status | Topics Covered |
+| :--- | :---: | :--- |
+| **🔹 Phase 1: Basics** | 🟩 Completed | DDL/DML, Filtering (`WHERE`, `LIKE`), Basic Aggregations |
+| **🔹 Phase 2: Intermediate**| 🟩 Completed | Subqueries, Joins (`INNER`, `LEFT`, `OUTER`), Grouping data |
+| **🔹 Phase 3: Advanced** | 🟦 In Progress | Window Functions, CTEs, Indexing, Query Optimization |
+| **🔹 Phase 4: Capstones** | 🔲 Planned | Database Schema Design & Real-world Analytics Projects |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+*   **Databases:** `PostgreSQL` | `MySQL` | `SQLite`
+*   **Concepts:** Relational Database Design (ERDs), Normalization, Performance Tuning
+*   **Environment:** DBeaver, pgAdmin, DataGrip
+
+---
+
+## 📂 Repository Structure
+
+```text
+├── 📁 01-Notes/            # Conceptual notes and cheat sheets
+├── 📁 02-Practice/         # Daily coding exercises and scratchpads
+├── 📁 03-Interview-Prep/   # LeetCode/HackerRank solutions organized by difficulty
+└── 📁 04-Projects/         # End-to-end database mini-projects
 
 ---
 
 ## 🛠 Tech Stack
 
+<div align="center">
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
+</div>
 
 ---
 
