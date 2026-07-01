@@ -33,3 +33,15 @@ SELECT * FROM programmers;
 ALTER TABLE programmers MODIFY COLUMN name VARCHAR(150);
 ALTER TABLE programmers MODIFY COLUMN date_of_birth DATETIME FIRST;
 SELECT * FROM programmers;
+
+-- Inserts multiple records into the programmers table
+INSERT INTO programmers
+(date_of_birth, name, email, gender)
+VALUES
+('2026-07-01','NANDANI', 'nandanihoney@gmail.com', 'Female'),
+('2002-05-15','Rahul', 'rahul@gmail.com', 'Male'),
+('2001-09-10','Priya', 'priya@gmail.com', 'Female'),
+('2000-12-25','Aman', 'aman@gmail.com', 'Male'),
+('1999-03-18','Sneha', 'sneha@gmail.com', 'Female');
+SELECT * FROM programmers;
+SELECT COUNT(*) FROM programmers;
