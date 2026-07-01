@@ -62,5 +62,5 @@
 ## 🎯 Goal
 ### Become proficient in SQL through consistent daily practice and real-world projects.
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00A8E8,20:0096C7,40:0077B6,70:00509D,100:003566"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A192F,20:0096C7,40:0077B6,70:00509D,100:003566"/>
 </div>
