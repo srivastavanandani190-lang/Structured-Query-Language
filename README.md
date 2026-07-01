@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=SQL%20Learning%20Journey&fontColor=FFFFFF&fontSize=50&fontAlignY=38&animation=fadeIn"/
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=SQL%20Learning%20Journey&fontColor=FFFFFF&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 
 
 # <span style="color:#00758F;">🐬 SQL Learning Journey</span>
