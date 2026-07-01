@@ -31,18 +31,6 @@
 
 ---
 
-## 🗺️ Learning Roadmap & Progress
-
-| Phase | Status | core Focus Areas |
-| :--- | :---: | :--- |
-| **🔹 Phase 1: Foundations** | 🟦 Completed | `DATABASE`, `TABLE` creation, `INSERT`, basic `SELECT` |
-| **🔹 Phase 2: Data Control** | 🔷 In Progress | `WHERE` filtering, `ORDER BY` sorting, `GROUP BY` aggregations |
-| **🔹 Phase 3: Intermediate** | 🔲 Planned | `JOINS`, Subqueries, Views |
-| **🔹 Phase 4: Advanced** | 🔲 Planned | Stored Procedures, Triggers, Indexes, Performance Optimization |
-
----
-
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -72,7 +60,7 @@
 ---
 
 ## 🎯 Goal
-# Become proficient in SQL through consistent daily practice and real-world projects.
+### Become proficient in SQL through consistent daily practice and real-world projects.
 
 ---
 
