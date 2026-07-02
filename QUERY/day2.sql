@@ -61,9 +61,8 @@ DROP TABLE users;
 -- always use WHERE unless you are intentionally updating/deleting everything in the table.
 --  If you omit the WHERE clause, all records will be affected.
 
--- consider running a SELECT with the same WWHERE clause first to confirm what will be affected.
+-- consider running a SELECT with the same WHERE clause first to confirm what will be affected.    
 -- ALWAYS BACKUP YOUR DATA BEFORE RUNNING UPDATE OR DELETE STATEMENTS, especially if you are working in a production environment.
--- 
 
 
 
