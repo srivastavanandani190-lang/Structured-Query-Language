@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A192F,50:00758F,100:00A8CC&text=SQL%20Learning%20Journey&fontColor=FFFFFF&fontSize=45&fontAlignY=35&animation=fadeIn"/>
 
-# <span style="color:#00758F;">🐬 Mastering Structured Query Language</span>
+# <span style="color:#00758F;">🐬Mastering Structured Query Language</span>
 ### *“Diving deep into data, one query at a time.”*
 
 <p>
@@ -22,16 +22,16 @@
 
 </div> 
 
-## 🚀 Repository Highlights
+## 🚀Repository Highlights
 
-* **🐬 Core Fundamentals** — Structured notes covering query building, constraints, and data manipulation.
-* **🔷 Hands-on Practice** — Practical scripts, complex multi-table joins, and database schemas.
-* **🎯 Interview Prep** — Curated solutions to real SQL challenges from LeetCode and HackerRank.
-* **📊 Mini Projects** — End-to-end relational database designs and analytical queries.
+* **🐬Core Fundamentals** — Structured notes covering query building, constraints, and data manipulation.
+* **🔷Hands-on Practice** — Practical scripts, complex multi-table joins, and database schemas.
+* **🎯Interview Prep** — Curated solutions to real SQL challenges from LeetCode and HackerRank.
+* **📊Mini Projects** — End-to-end relational database designs and analytical queries.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️Tech Stack & Tools
 
 <div align="center">
   <p><strong>Databases & Environments:</strong></p>
@@ -40,7 +40,7 @@
 
 ---
 
-## 📚 Learning Roadmap
+## 📚Learning Roadmap
 
 - ✅ SQL Basics
 - ✅ CREATE DATABASE
@@ -59,7 +59,7 @@
 
 ---
 
-## 🎯 Goal
+## 🎯Goal
 ### Become proficient in SQL through consistent daily practice and real-world projects.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A192F,20:0096C7,40:0077B6,70:00509D,100:003566"/>
