@@ -64,6 +64,8 @@ FLOOR(salary) AS floored,
 CEIL(salary) AS ceiled FROM users;
 
 SELECT id, MOD(id,2) AS remainder FROM users;
+SELECT name , gender , IF(gender='Female','Yes','No') AS is_female FROM users;
+
 
 
 
